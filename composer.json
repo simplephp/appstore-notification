@@ -1,0 +1,19 @@
+{
+    "name": "simplephp/appstore-notification",
+    "description": "appstore notification php",
+    "authors": [
+        {
+            "name": "kevin",
+            "email": "841694874@qq.com"
+        }
+    ],
+	"require": {
+		"ext-json": "*",
+		"ext-curl": "*"
+	},
+	"autoload": {
+		"psr-4": {
+		  "Simplephp\\AppstoreNotification\\": "src/"
+		}
+	}
+}
