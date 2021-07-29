@@ -110,8 +110,9 @@ switch ($originJsonData['notification_type']) {
     case 'DID_CHANGE_RENEWAL_PREF':// 客户更改了在下次订购续订时会影响的计划。当前活动计划不受影响。
         break;
 }
-
-
+/**
+ * response
+ */
 function responseJson($data = [], $httpCode = 200)
 {
     header('Content-Type:application/json');
