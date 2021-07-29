@@ -5,7 +5,6 @@ appstore server notifications for php
 appstore 内购通知
 包含 服务端校验和appstore通知(test文件夹下包含 test 和 notify文件)
 
-
 #### 安装教程
 1 Add to composer.json to the require key
 
@@ -40,7 +39,7 @@ array(1) {
     ["quantity"]=>
     string(1) "1"
     ["product_id"]=>
-    string(23) "CenterWeather_Reward_04"
+    string(23) "your product id"
     ["transaction_id"]=>
     string(15) "110000956363006"
     ["original_transaction_id"]=>
