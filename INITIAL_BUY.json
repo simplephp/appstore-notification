@@ -37,7 +37,7 @@
   "environment": "PROD",
   "auto_renew_status": "true",
   "bvrs": "1105",
-  "bid": "com.bid",
+  "bid": "you.bid.com",
   "password": "yourpassword",
   "auto_renew_product_id": "CenterWeather_Reward_04",
   "notification_type": "INITIAL_BUY"
