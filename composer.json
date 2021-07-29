@@ -1,6 +1,6 @@
 {
     "name": "simplephp/appstore-notification",
-    "description": "appstore notification php",
+    "description": "The appstore notification for php",
     "authors": [
         {
             "name": "kevin",
