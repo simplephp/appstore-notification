@@ -48,7 +48,7 @@
   "web_order_line_item_id": "420000345469057",
   "cancellation_date_ms": "1615618105000",
   "cancellation_date_pst": "2021-03-12 22:48:25 America\/Los_Angeles",
-  "bid": "com.ireadercity.weather",
+  "bid": "you.bid.com",
   "controller": "Apple",
   "function": "event"
 }
