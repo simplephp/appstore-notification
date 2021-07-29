@@ -12,7 +12,7 @@ class AppstoreNotification
     /**
      * IAP VERSION
      */
-    const APP_VERSION = '1.0.0';
+    const APP_VERSION = '1.0.1';
 
     /**
      * @var string 沙盒地址
