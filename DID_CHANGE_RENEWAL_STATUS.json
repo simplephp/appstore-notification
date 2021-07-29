@@ -179,7 +179,7 @@
   "auto_renew_status": "false",
   "auto_renew_status_change_date_pst": "2021-03-22 16:10:03 America/Los_Angeles",
   "bvrs": "1003",
-  "bid": "com.yourbid",
+  "bid": "you.bid.com",
   "password": "yourpassword",
   "auto_renew_status_change_date_ms": "1616454603000",
   "auto_renew_product_id": "CenterWeather_Reward_04",
